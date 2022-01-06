@@ -1,0 +1,21 @@
+BreakDelay: 10000
+
+Breaks: 
+
+Flashing  visible: true  x: 0  y: 0
+Glass  x: 120  y: 0 
+Prize  name: FireBall  x: 240  y: 0
+Unvisible   x: 360  y: 0
+Wooden  hit: false  x: 480  y: 0
+
+Prizes:
+
+
+Balls:
+x: 293 y: 535 healthStage: 3  xV: 4  yV: 4  fire: false
+ 
+Board:
+x: 255 y: 585  width: 90  dizzy: false
+
+Score: 0
+
